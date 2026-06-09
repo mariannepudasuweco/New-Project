@@ -1,0 +1,6 @@
+{
+  "name": "ProMonitor",
+  "description": "Project monitoring dashboard with procurement, payroll, schedule, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
